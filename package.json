@@ -1,0 +1,25 @@
+{
+  "name": "test_appssdk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/watanabe-tsubasa/test_AppsSDK.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/watanabe-tsubasa/test_AppsSDK/issues"
+  },
+  "homepage": "https://github.com/watanabe-tsubasa/test_AppsSDK#readme",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.25.1",
+    "zod": "^4.2.1"
+  }
+}
